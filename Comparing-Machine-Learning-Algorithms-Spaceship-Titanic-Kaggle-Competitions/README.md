@@ -4,13 +4,6 @@ This project aims to compare different machine learning algorithms from scikit-l
 
 I am very interested in machine learning and data science, and this project serves as an opportunity for me to compare different algorithms and see which one performs the best in this classification task and explore the impact of hyperparameter tuning on model performance. The results of this analysis are presented in the 'Submission' section of this README.
 
-
-1. RandomForestClassifier
-2. Support Vector Machines (SVC)
-3. K-Nearest Neighbors (KNN)
-4. Logistic Regression
-5. XGBoost
-
 ## Table of Contents
 
 - [Introduction](#introduction)
